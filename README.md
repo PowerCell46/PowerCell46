@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/powercell46" target="blank"><img src="https://img.shields.io/twitter/follow/powercell46?logo=twitter&style=for-the-badge" alt="powercell46" /></a> </p>
 
-- 🌱 I’m currently learning **HTML&CSS, Java Script and Python.**
+- 🌱 I’m currently learning **Java Script and Python.**
 
-- 📫 How to reach me **makotsevo.fan@gmail.com**
+- 📫 How to reach me: **makotsevo.fan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
