@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Script and Python.**
 
-- 📫 How to reach me: **makotsevo.fan@gmail.com**
+- 📫 How to reach me (email address): **makotsevo.fan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
