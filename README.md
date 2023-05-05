@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Hello there 👋, I'm Peter Gerdzhikov!</h1>
-<h3 align="center">I am a student at Sofia university, learning to code at SoftUni academy.</h3>
+<h1 align="center">Hello there, 👋 I'm Peter Gerdzhikov!</h1>
+<h3 align="center">I am a first year student at Sofia University, specialty Geospatial Systems and Technologies, learning to code at SoftUni academy.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=powercell46" alt="powercell46" /></a> </p>
 
