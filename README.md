@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-<h1 align="center">Hello there 👋, I'm Gerdzhikov!</h1>
-<h4 align="center">I am a second year student at Sofia University, specialty Geospatial Systems and Technologies, learning to program at SoftUni academy.</h3>
+<h1 align="center">Hello there, 👋 I am Peter Gerdzhikov!</h1>
+<h3 align="center">I am a second year student at Sofia University, specialty Geospatial Systems and Technologies, learning to program at SoftUni academy.</h3>
 
 ---
 
