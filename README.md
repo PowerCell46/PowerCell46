@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=powercell46&layout=compact&show_icons=true&locale=en" alt="powercell46" /><br>
 
   
-  <img src="https://github-readme-stats.vercel.app/api/?username=powercell46&show_icons=true&locale=en" alt="powercell46" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=powercell46&show_icons=true&locale=en" alt="powercell46" /><br><br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=powercell46" alt="powercell46" />
 </div>
