@@ -3,7 +3,7 @@
 <h1 align="center">Hello there, I'm Peter Gerdzhikov! 👋</h1>
 <h3 align="center">I am a second year student at Sofia University, specialty Geospatial Systems and Technologies, learning to program at SoftUni academy.</h3>
 
-- 🌱 I’m currently working on my **React Fitness Pro Gym Project**
+- 🌱 I’m currently working on my **React Fitness Pro Gym Project**.
 
 - 📫 How to reach me: **peter.gerdzhikov.contact@gmail.com**
 
