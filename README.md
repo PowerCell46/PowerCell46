@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hello there, I'm Peter Gerdzhikov! 👋</h1>
-<h3 align="center">I am a Fullstack Software Web Developer at Latona, third year student at Sofia University, specialty Geospatial Systems and Technologies.</h3>
+<h3 align="center">I am a Fullstack Software Web Developer at Latona, fourth (final) year student at Sofia University, specialty Geospatial Systems and Technologies.</h3>
 
-- 🌱 I'm currently working with **Spring** and **React**, improving my knowledge in Java, trying to learn **C++** in my spare time.
+- 🌱 I'm currently working with **Spring**, **React** and **FastAPI**, improving my knowledge in architecture and system design, trying to learn **Integration of AI** in my spare time.
 
 - 📫 How to reach me: **peter.gerdzhikov.contact@gmail.com**
 
