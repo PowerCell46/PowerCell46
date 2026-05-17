@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,500;9..144,900&amp;family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      .meta { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #7d8590; letter-spacing: 1.5px; }
+      .accent { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #f78166; letter-spacing: 2px; }
+      .name-light { font-family: 'Fraunces', 'Times New Roman', serif; font-size: 96px; font-weight: 300; font-style: italic; fill: #e6edf3; letter-spacing: -3px; }
+      .name-bold { font-family: 'Fraunces', 'Times New Roman', serif; font-size: 96px; font-weight: 900; fill: #e6edf3; letter-spacing: -3px; }
+      .lede { font-family: 'Fraunces', 'Times New Roman', serif; font-size: 22px; font-weight: 400; fill: #e6edf3; }
+      .lede-em { font-family: 'Fraunces', 'Times New Roman', serif; font-size: 22px; font-weight: 400; font-style: italic; fill: #f78166; }
+      .credit { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #7d8590; letter-spacing: 1.5px; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" fill="#0d1117"/>
+
+  <!-- Top divider with meta row -->
+  <line x1="60" y1="48" x2="1140" y2="48" stroke="#21262d" stroke-width="1"/>
+  <text x="60" y="36" class="meta">ISSUE №01 · SOFIA, BG</text>
+  <text x="1140" y="36" class="meta" text-anchor="end">2026 / FULLSTACK DEVELOPER</text>
+
+  <!-- Hello, world -->
+  <text x="60" y="100" class="accent">━━ HELLO, WORLD</text>
+
+  <!-- Name -->
+  <text x="60" y="180" class="name-light">Peter</text>
+  <text x="60" y="270" class="name-bold">Gerdzhikov.</text>
+
+  <!-- Right column: tagline -->
+  <text x="640" y="200" class="lede">
+    <tspan>Fullstack engineer building</tspan>
+  </text>
+  <text x="640" y="232" class="lede-em">practical software</text>
+  <text x="640" y="232" class="lede" dx="200">at the intersection of</text>
+  <text x="640" y="264" class="lede">geospatial systems and</text>
+  <text x="640" y="296" class="lede">web platforms.</text>
+
+  <!-- Bottom credit -->
+  <line x1="60" y1="324" x2="1140" y2="324" stroke="#21262d" stroke-width="1"/>
+  <text x="640" y="348" class="credit">@ LATONA DEV  ·  SOFIA UNIVERSITY  ·  GEOSPATIAL SYSTEMS</text>
+</svg>
