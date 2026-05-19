@@ -1,131 +1,65 @@
-<div align="center">
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-<!-- HERO BANNER -->
-<!-- Upload hero-banner.svg to your repo (e.g. assets/hero-banner.svg) -->
-<img src="./assets/hero-banner.svg" alt="Peter Gerdzhikov — Fullstack Engineer" width="100%"/>
+<h1 align="center">Hello there, I'm Peter Gerdzhikov! 👋</h1>
+<h3 align="center">I am a Fullstack Software Web Developer at Latona, fourth (final) year student at Sofia University, specialty Geospatial Systems and Technologies.</h3>
 
-</div>
+- 🌱 I'm currently working with **Spring**, **React** and **FastAPI**, improving my knowledge in architecture and system design, trying to learn **Integration of AI** in my spare time.
 
-<br>
+- 📫 How to reach me: **peter.gerdzhikov.contact@gmail.com**
 
-> Shipping enterprise portals with **Spring** and **React**, tinkering with **FastAPI**, and exploring how AI quietly slips into developer tooling.
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="The Workstation" width="100%"/>
-  <sub><code>FIG. 01 — THE WORKSTATION</code></sub>
-</div>
-
-<br><br>
-
-## `§02 · TOOLS OF THE TRADE`
-
-### *The Stack*
-
-A handful of tools I reach for daily, supported by a wider toolkit picked up along the way.
-
-<br>
-
-#### ◆ &nbsp;PRIMARY STACK &nbsp;·&nbsp; <sub>DAILY DRIVERS</sub>
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" align="center"/>
-        &nbsp; Spring
-      </h3>
-      <sub><code>01 · BACKEND</code></sub>
-      <br><br>
-      <i>REST services and integration layers in production.</i>
-    </td>
-    <td width="40%" valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" align="center"/>
-        &nbsp; React
-      </h3>
-      <sub><code>02 · FRONTEND</code></sub>
-      <br><br>
-      <i>Enterprise portals, design systems, custom renderers.</i>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="24" align="center"/>
-        &nbsp; FastAPI
-      </h3>
-      <sub><code>03 · PYTHON SERVICES</code></sub>
-      <br><br>
-      <i>Lightweight APIs, AI integrations, internal tooling.</i>
-    </td>
-    <td valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24" align="center"/>
-        &nbsp; TypeScript
-      </h3>
-      <sub><code>04 · TYPE-SAFE EVERYTHING</code></sub>
-      <br><br>
-      <i>Strict typing across the frontend, end-to-end.</i>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
-      <h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="24" align="center"/>
-        &nbsp; PostgreSQL
-      </h3>
-      <sub><code>05 · DATABASE</code></sub>
-      <br><br>
-      <i>Relational modeling, geospatial data, query tuning.</i>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-#### ◇ &nbsp;SUPPORTING TOOLKIT &nbsp;·&nbsp; <sub>ALSO COMFORTABLE WITH</sub>
-
-|  |  |
-|---|---|
-| *Languages* | `JavaScript` · `Python` · `Java` · `C++` · `HTML5` · `CSS3` · `Node.js` |
-| *Frameworks* | `Django` · `Express` · `Angular` · `Mocha` |
-| *Databases* | `MS SQL` · `MongoDB` · `MySQL` · `SQLite` |
-| *Tooling* | `Git` · `Docker` · `Postman` · `Bootstrap` |
-
-<br>
-
----
-
-<br>
-
-### `OFF THE CLOCK`
-
-> Lifting iron, reading code, learning languages — in roughly that order.
-
-<br>
-
----
-
-<br>
-
-### `REACH OUT`
-
-📫 &nbsp; **[peter.gerdzhikov.contact@gmail.com](mailto:peter.gerdzhikov.contact@gmail.com)**
-
-<br>
-
-<p>
-  <a href="https://www.linkedin.com/in/peter-gerdzhikov-b046a7290"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://twitter.com/powercell46"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-  &nbsp;
-  <a href="https://instagram.com/petergerdzhikov"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  &nbsp;
-  <a href="https://fb.com/peter.gerdzhikov"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/peter-gerdzhikov-b046a7290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-gerdzhikov" height="30" width="40" /></a>
+<a href="https://instagram.com/petergerdzhikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="petergerdzhikov" height="30" width="40" /></a>
+<a href="https://fb.com/peter gerdzhikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peter gerdzhikov" height="30" width="40" /></a>
+<a href="https://twitter.com/powercell46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="powercell46" height="30" width="40" /></a>
 </p>
 
+<h4 align="left">Languages:</h4>
+<p align="center"> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"      height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+
+</p>
+<h4 align="left">Frameworks:</h4>
+<p align="center"> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+</a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
+</p>
+
+<h4 align="left">Databases:</h4>
+<p align="center">
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+</p>
+
+<h4 align="left">Tools:</h4>
+<p align="center"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+ </p>
+ 
 <br>
 
-<sub><code>· END OF DOCUMENT ·</code></sub>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=powercell46&layout=compact&show_icons=true&locale=en" alt="powercell46" /><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/?username=powercell46&show_icons=true&locale=en" alt="powercell46" /><br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=powercell46" alt="powercell46" />
+</div>
